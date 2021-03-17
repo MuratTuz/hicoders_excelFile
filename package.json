@@ -15,6 +15,7 @@
   "author": "murattuzlali@gmail.com",
   "license": "MIT",
   "dependencies": {
-    "exceljs": "^4.2.1"
+    "exceljs": "^4.2.1",
+    "xlsx": "^0.16.9"
   }
 }
