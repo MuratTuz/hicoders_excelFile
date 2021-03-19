@@ -1,3 +1,9 @@
+
+/**
+ * Here is used xlsx npm package for writing the data to excel file. 
+ * Data.js and OrnekDosya.xlsx files are keept in the public directory
+ */
+
 import excel from 'xlsx'
 import { data } from './public/data.js'
 
